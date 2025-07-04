@@ -6,8 +6,8 @@ class Proxys:
         self.email = email
         self.password = password
 
-p1 = Proxys("FCastagnaro", 1126441825, 44759045, "francastagnaro@hotmail.com", "Pedopedo10")
-p2 = Proxys("NLuque", 1144248611, 44670463, "", "")
-p3 = Proxys("SAcevedo", 1160265312, 20711288, "sucusraices@gmail.com", "Sucusraices123")
+p1 = Proxys("FCastagnaro", 112000000, 44759045, "fran@hotmail.com", "testing")
+p2 = Proxys("NLuque", 112000000, 44670463, "", "")
+p3 = Proxys("SAcevedo", 112000000, 20711288, "san@gmail.com", "testing")
 
 proxys = [p1, p2, p3] 
